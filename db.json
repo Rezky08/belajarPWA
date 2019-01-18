@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Galapagos hawk","category":"Violet"},
+{"id":2,"name":"Dik, kirk's dik","category":"Indigo"},
+{"id":3,"name":"White-nosed coatimundi","category":"Purple"},
+{"id":4,"name":"Trumpeter swan","category":"Mauv"},
+{"id":5,"name":"Crab-eating raccoon","category":"Maroon"},
+{"id":6,"name":"Painted stork","category":"Red"},
+{"id":7,"name":"Pale white-eye","category":"Puce"},
+{"id":8,"name":"Horned lark","category":"Puce"},
+{"id":9,"name":"Long-tailed jaeger","category":"Red"},
+{"id":10,"name":"Fisher","category":"Fuscia"},
+{"id":11,"name":"Wood pigeon","category":"Teal"},
+{"id":12,"name":"Coyote","category":"Maroon"},
+{"id":13,"name":"Eagle, bateleur","category":"Maroon"},
+{"id":14,"name":"Red-capped cardinal","category":"Yellow"},
+{"id":15,"name":"Phalarope, grey","category":"Orange"},
+{"id":16,"name":"Porcupine, prehensile-tailed","category":"Yellow"},
+{"id":17,"name":"Little brown dove","category":"Blue"},
+{"id":18,"name":"Lark, horned","category":"Purple"},
+{"id":19,"name":"Pale white-eye","category":"Pink"},
+{"id":20,"name":"Western pygmy possum","category":"Pink"}]
+}
